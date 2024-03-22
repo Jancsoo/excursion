@@ -21,4 +21,14 @@ video{
   width: auto;
 }
 
-img {margin:auto}
+img {
+    margin:auto;
+border-bottom-color: white;
+border-bottom-width: 3px;}
+
+.FooterEx {
+    text-align: right;
+    color:gainsboro;
+     font-family: Arial, Helvetica, sans-serif;
+    
+}
